@@ -1,0 +1,107 @@
+
+.container {
+    margin-top: 20px;
+  }
+  .NavMargin {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .Hover:hover {
+    background-color: rgb(255, 188, 62);
+  }
+  .Images {
+    width: 450px;
+    height: 500px;
+    margin: 10px;
+  }
+  .Images-2 {
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    align-items: center;
+  }
+  .marginCarousal {
+    width: 400px;
+  }
+  .bgcolor {
+    background-color: #000000;
+  }
+  .styke {
+    font-size: 17px;
+  }
+  .styke1:hover {
+    color: orange;
+  }
+  .border1{
+    margin-top:10px;
+    
+  }
+  .names{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size:20px;
+  }
+  .name-text{
+    font-size:25px;
+  }
+  .class1{
+    border:2px solid rgb(0, 0, 0);
+    margin-top:10px;
+    margin-bottom:30px;
+  }
+  .class2{
+    margin-top:10px;
+    margin-bottom:30px;
+  }
+  .shift{
+    margin-right:50px;
+  }
+  .black{
+    background-color:black;
+  }
+  .imageback{
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2F1%2F1%2F0%2F134857.jpg&f=1&nofb=1");
+  }
+  .About-Heading{
+    text-align:center;
+    font-weight:bold;
+    margin-top:100px;
+    margin-bottom:100px;
+  }
+  .TextAbout{
+    margin-top:20px;
+    font-weight:bold;
+  }
+  .border2{
+    border:2px solid rgb(236, 135, 135)
+  }
+  /* Extra small devices (phones, 600px and down) */
+  @media only screen and (max-width: 600px) {
+    .smallscreen{
+      margin-left:100px;
+    }
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    .smallscreen{
+      margin-left:100px;
+    }
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    .smallscreen{
+      margin-left:100px;
+    }
+  }
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    .smallscreen{
+      margin-left:100px;
+    }
+  }
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    
